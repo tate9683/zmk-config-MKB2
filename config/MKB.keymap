@@ -28,7 +28,7 @@
         default_layer {
             label = "Def";
             bindings = <
-&kp LCTL      &kp Q     &kp W      &kp E           &kp R          &kp T               &kp Y           &kp U          &kp I      &kp O      &kp P      &kp BKSP
+&kp LCTL      &kp Q     &kp W      &kp E           &kp R          &kp T               &kp Y           &kp U          &kp I      &kp O      &kp P      &kp P
 &lt LCTL ESC  &kp A     &kp S      &kp D           &kp F          &kp G               &kp H           &kp J          &kp K      &kp L      &kp MINUS   &kp SEMI
 &kp LSHFT     &kp Z     &kp X      &mt LS(MCLK) C  &kp V          &kp B               &kp N           &kp M          &kp COMMA  &kp DOT    &kp SQT     &kp FSLH
 &mt LGUI   &kp BT ESC   &kp LALT                   &lt FUNC SPACE  &lt MOUSE SPACE      &lt FUNC DEL  &lt NUM ENTER             &kp GRAVE   &kp LGUI   &kp LSHFT
@@ -104,4 +104,5 @@
         };
     };
 };
+
 
