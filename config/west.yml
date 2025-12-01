@@ -18,7 +18,7 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       # remote: te9no
-      revision: main
+      revision: v0.2.1
       import: app/west.yml
     - name: zmk-rgbled-widget
       remote: caksoylar
@@ -46,4 +46,5 @@ manifest:
       revision: main
   self:
     path: config
+
     
